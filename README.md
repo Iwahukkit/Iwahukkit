@@ -12,5 +12,5 @@ Hey! My name is Asil, I am a Amateur Developer and Debugger
 
 ```
 Contact Me:
-Discord:@arsugami
+Discord:@iwahu.
 ```
