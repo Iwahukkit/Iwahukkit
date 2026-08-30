@@ -17,9 +17,7 @@ I'm currently working as Lead Developer on LucidNetwork Server
 # My Project's:
 
 [![StuckHelper](https://img.shields.io/badge/Stuck-Helper-brightgreen)](https://www.curseforge.com/minecraft/bukkit-plugins/stuckhelper)
-![iMeetup](https://img.shields.io/badge/iMeetup-Working_on_it-blue)
-![iMeetup](https://img.shields.io/badge/iMeetup-Working_on_it-blue)
-
+[![EvrenYonetim](https://img.shields.io/badge/Evren_Yönetim_Paneli-yellow)](https://github.com/Iwahukkit/evrenyonetimpaneli)
 
 #  GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Iwahukkit&theme=dark&hide_border=false)<br/>
