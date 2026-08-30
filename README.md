@@ -17,7 +17,7 @@ I'm currently working as Lead Developer on LucidNetwork Server
 # My Project's:
 
 ![StuckHelper](https://img.shields.io/badge/Stuck-Helper-blue)
-![iMeetup](https://img.shields.io/badge/iMeetup-not-ended-blue)
+![iMeetup](https://img.shields.io/badge/iMeetup-Working_on_it-blue)
 
 
 #  GitHub Stats:
