@@ -5,7 +5,7 @@ Hey! My name is Iwahu, I am an Minecraft Bukkit Plugin Developer and Debugger
 
 
 #  Tech Stack:
-![Java](https://img.shields.io/badge/Java-blue)
+![Java](https://img.shields.io/badge/Java-8-blue)
 #  GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Iwahukkit&theme=dark&hide_border=false)<br/>
 
