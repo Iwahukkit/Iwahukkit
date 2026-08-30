@@ -16,7 +16,7 @@ I'm currently working as Lead Developer on LucidNetwork Server
 
 # My Project's:
 
-[![StuckHelper](https://img.shields.io/badge/Stuck-red-Helper-brightgreen)](https://www.curseforge.com/minecraft/bukkit-plugins/stuckhelper)
+[![StuckHelper](https://img.shields.io/badge/Stuck-Helper-brightgreen)](https://www.curseforge.com/minecraft/bukkit-plugins/stuckhelper)
 ![iMeetup](https://img.shields.io/badge/iMeetup-Working_on_it-blue)
 ![iMeetup](https://img.shields.io/badge/iMeetup-Working_on_it-blue)
 
