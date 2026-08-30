@@ -15,7 +15,7 @@ I'm currently working as Lead Developer on LucidNetwork Server
 [![HTML5](https://img.shields.io/badge/HTML-5-blue?logo=html5)]()
 [![XBOX](https://img.shields.io/badge/XBOX-brightgreen?logo=xbox)](https://www.xbox.com/play/user/xIwahu)
 [![STEAM](https://img.shields.io/badge/Steam-grey?logo=steam)](https://steamcommunity.com/id/Iwahu/)
-[![CURSE](https://img.shields.io/badge/Curse-forge-orange?logo=Curseforge)](https://www.curseforge.com/members/iwahu/projects)
+[![CURSE](https://img.shields.io/badge/Curseforge-grey?logo=Curseforge)](https://www.curseforge.com/members/iwahu/projects)
 
 # My Project's:
 
