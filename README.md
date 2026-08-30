@@ -28,4 +28,5 @@ I'm currently working as Lead Developer on LucidNetwork Server
 # Contact Me
 
 **Discord: Iwahu.**
-**I'm on liberachat. If you want to talk with me come to the #lucidnw**
+**I'm on liberachat.
+If you want to talk with me come to the #lucidnw**
