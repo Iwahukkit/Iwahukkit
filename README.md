@@ -19,7 +19,7 @@ I'm currently working as Lead Developer on LucidNetwork Server
 
 # My Project's:
 
-[![StuckHelper](https://img.shields.io/badge/Stuck-Helper-brightgreen)](https://www.curseforge.com/minecraft/bukkit-plugins/stuckhelper)
+[![StuckHelper](https://img.shields.io/badge/StuckHelper-brightgreen)](https://www.curseforge.com/minecraft/bukkit-plugins/stuckhelper)
 [![EvrenYonetim](https://img.shields.io/badge/Evren_Yönetim_Paneli-yellow)](https://github.com/Iwahukkit/evrenyonetimpaneli)
 
 # GitHub Stats:
