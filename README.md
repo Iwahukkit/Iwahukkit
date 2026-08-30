@@ -1,6 +1,6 @@
 <center>
   
-![LOGO](https://raw.githubusercontent.com/Iwahukkit/arsugami/refs/heads/main/iwahukkit.png)
+![LOGO](https://raw.githubusercontent.com/Iwahukkit/Iwahukkit/refs/heads/main/iwahukkit.png)
 
 </center>
 
