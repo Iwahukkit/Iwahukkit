@@ -25,7 +25,7 @@ I'm currently working as Lead Developer on LucidNetwork Server
 # GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Iwahukkit&theme=dark&hide_border=false)<br/>
 
-```
-Contact Me:
-Discord:@iwahu.
-```
+# Contact Me
+
+**Discord: Iwahu.**
+**I'm on liberachat. If you want to talk with me come to the #lucidnw **
