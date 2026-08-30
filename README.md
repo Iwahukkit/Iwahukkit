@@ -1,7 +1,7 @@
 ![LOGO](https://raw.githubusercontent.com/Iwahukkit/arsugami/refs/heads/main/iwahukkit.png)
 
 #  About Me:
-Hey! My name is Asil, I am a Amateur Developer and Debugger
+Hey! My name is Iwahu, I am an Minecraft Bukkit Plugin Developer and Debugger
 
 
 #  Tech Stack:
